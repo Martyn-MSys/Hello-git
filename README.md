@@ -1,4 +1,7 @@
 # Hello-git
-example project
+example 
+
+please always do the following when pushing code:
 
 pull commit push
+
